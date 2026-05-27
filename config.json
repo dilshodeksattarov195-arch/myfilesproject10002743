@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderptringify",
+        "uuid": 6939790,
+        "checksum": "d1s3xf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
